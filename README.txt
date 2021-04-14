@@ -3,9 +3,12 @@ Accelerating Object Classification Using FPGAs
 The goal of this project is to run the LeNet5 model trained for classifying traffic signs on a FPGA.
 Here is a high-level description of the design tree. For more details please refer to the final report in the docs/ directory.
 
+A brief video demo of the design can be found at this link: https://www.youtube.com/watch?v=Bf_jbKh4pdg
+
 G3_FPGA_Object_Classification_Accelerator
 ├── README.txt
 ├── docs                                        # Documentation
+│   ├── final_report.pdf                        # Final group report
 │   └── final_presentation.pptx                 # Final presentation
 ├── ml_training
 │   └── pytorch_edlenet.ipynb                   # PyTorch training code for Lenet-5 model
