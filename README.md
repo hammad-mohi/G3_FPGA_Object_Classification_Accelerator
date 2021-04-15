@@ -9,7 +9,7 @@ A brief video demo of the design can be found [here](https://www.youtube.com/wat
 
 ```
 G3_FPGA_Object_Classification_Accelerator
-├── README.txt
+├── README.md
 ├── docs                                        # Documentation
 │   ├── final_report.pdf                        # Final group report
 │   └── final_presentation.pptx                 # Final presentation
